@@ -156,11 +156,7 @@ section p {
   width: calc(50% - 50px);
 }
 
-@media (max-width: 800px) {
-  .flex-box .exp-item {
-    width: calc(100%);
-  }
-}
+
 
 .exp-item {
   padding: 20px;
