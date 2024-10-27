@@ -724,7 +724,7 @@ section p {
   display: inline-block;
   display: flex;
   align-items: center;
-  width: 170px;
+  width: 200px;
   margin-bottom: 20px;
   justify-content: center;
 }
